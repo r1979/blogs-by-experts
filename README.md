@@ -51,6 +51,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Scott Aaronson: [Why I am not an integrated information theorist](http://www.scottaaronson.com/blog/?p=1799)
  - Sean Carroll: [Preposterous Universe](https://www.preposterousuniverse.com/blog/)
+ - Peter Woit: [Entanglement, the Multiverse and the Universe](http://www.math.columbia.edu/~woit/wordpress/?p=8918)
 
 ## Popular Science
  - Tim Urban: [Why Procrastinators Procrastinate](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
