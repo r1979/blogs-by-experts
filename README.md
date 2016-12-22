@@ -33,6 +33,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Paul Romer: [Economic growth](https://paulromer.net/economic-growth-2/)
  - Nick Szabo: [Weigh and deliver: compensation and the evolution of law and money](https://unenumerated.blogspot.com/2016/12/weigh-and-deliver-compensation-and.html)
+ - Stuart Reid: [TuringFinance](http://www.turingfinance.com/)
 
 ## Mathematics
 
@@ -62,4 +63,4 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  ## User Experience
 
-  - Joel Marsh: [10 ways to pretend you know UX when you don't](http://thehipperelement.com/post/66097606120/10-ways-to-pretend-you-know-ux-when-you-dont)
+  - Joel Marsh: [10 ways to pretend you know UX when you don't](http://thehipperelement.com/post/66097606120/10-ways-to-pretend-you-know-ux-when-you-dont)
