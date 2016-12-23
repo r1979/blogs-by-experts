@@ -37,6 +37,10 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Nick Szabo: [Weigh and deliver: compensation and the evolution of law and money](https://unenumerated.blogspot.com/2016/12/weigh-and-deliver-compensation-and.html)
  - John Cochrane: [The next crisis?](http://johnhcochrane.blogspot.com/2016/12/the-next-crisis.html)
 
+## Functional Programming
+
+ - John A. De Goes: [A Beginner-Friendly Tour of Functional Programming in Scala](http://degoes.net/articles/easy-monads)
+
 ## Mathematics
 
  - Terence Tao: [Sumfree sets in groups](https://terrytao.wordpress.com/2016/03/11/sumfree-sets-in-groups/)
