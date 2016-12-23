@@ -33,7 +33,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Paul Romer: [Economic growth](https://paulromer.net/economic-growth-2/)
  - Nick Szabo: [Weigh and deliver: compensation and the evolution of law and money](https://unenumerated.blogspot.com/2016/12/weigh-and-deliver-compensation-and.html)
- - Stuart Reid: [TuringFinance](http://www.turingfinance.com/)
+ - Stuart Reid: [TuringFinance](http://www.turingfinance.com/stock-market-prices-do-not-follow-random-walks/)
 
 ## Mathematics
 
