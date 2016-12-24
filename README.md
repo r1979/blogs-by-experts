@@ -18,6 +18,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Ben Thompson: [Dollar Shave Club and the Disruption of Everything](https://stratechery.com/2016/dollar-shave-club-and-the-disruption-of-everything/)
  - Fred Wilson: [MBA-Mondays: Sales Leads on a Small Budget](http://avc.com/2013/06/mba-mondays-sales-leads-on-a-small-budget/)
  - Brad Feld: [Feld Thoughts: Board Seat For Sale](http://www.feld.com/archives/2016/12/board-seat-sale.html)
+ - Paul Graham: [Do Things that Don't Scale](http://paulgraham.com/ds.html)
 
 ## Chemistry
 - Derek Lowe: [The Open Source Malaria Project, So Far](http://blogs.sciencemag.org/pipeline/archives/2016/09/16/the-open-source-malaria-project-so-far)
