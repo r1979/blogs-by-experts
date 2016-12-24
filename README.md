@@ -38,6 +38,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Nick Szabo: [Weigh and deliver: compensation and the evolution of law and money](https://unenumerated.blogspot.com/2016/12/weigh-and-deliver-compensation-and.html)
  - John Cochrane: [The next crisis?](http://johnhcochrane.blogspot.com/2016/12/the-next-crisis.html)
  - Ben Bernanke: [Ben Bernanke's Blog](https://www.brookings.edu/blog/ben-bernanke/2016/10/19/are-americans-better-off-than-they-were-a-decade-or-two-ago/)
+
 ## Mathematics
 
  - Terence Tao: [Sumfree sets in groups](https://terrytao.wordpress.com/2016/03/11/sumfree-sets-in-groups/)
@@ -58,13 +59,14 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Tim Urban: [Why Procrastinators Procrastinate](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
  - Ben Krasnow: [How anti-theft tags work - magnetostriction](http://benkrasnow.blogspot.com/2015/11/how-anti-theft-tags-work.html)
 
+## Programming
+
+ - Jeff Knupp: [How Python Linters Will Save Your Large Python Project](https://jeffknupp.com/blog/2016/12/09/how-python-linters-will-save-your-large-python-project/)
+ - John A. De Goes: [A Beginner-Friendly Tour of Functional Programming in Scala](http://degoes.net/articles/easy-monads)
+
 ## Psychiatry
 
  - Scott Alexander: [Reverse voxsplaining: prison and mental illness](http://slatestarcodex.com/2016/03/07/reverse-voxsplaining-prison-and-mental-illness/)
-
-## Python
-
- - Jeff Knupp: [How Python Linters Will Save Your Large Python Project](https://jeffknupp.com/blog/2016/12/09/how-python-linters-will-save-your-large-python-project/)
 
 ## Security
 
