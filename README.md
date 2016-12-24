@@ -21,7 +21,8 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Paul Graham: [Do Things that Don't Scale](http://paulgraham.com/ds.html)
 
 ## Chemistry
-- Derek Lowe: [The Open Source Malaria Project, So Far](http://blogs.sciencemag.org/pipeline/archives/2016/09/16/the-open-source-malaria-project-so-far)
+
+ - Derek Lowe: [The Open Source Malaria Project, So Far](http://blogs.sciencemag.org/pipeline/archives/2016/09/16/the-open-source-malaria-project-so-far)
 
 ## Computer science
 
@@ -36,6 +37,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Paul Romer: [Economic growth](https://paulromer.net/economic-growth-2/)
  - Richard Serlin: [The Intuition behind Wallace Neutrality](http://richardhserlin.blogspot.com/2015/07/the-intuition-behind-wallace-neutrality.html)
  - Nick Szabo: [Weigh and deliver: compensation and the evolution of law and money](https://unenumerated.blogspot.com/2016/12/weigh-and-deliver-compensation-and.html)
+ - Stuart Reid: [Stock market prices do not follow random walks](http://www.turingfinance.com/stock-market-prices-do-not-follow-random-walks/)
  - John Cochrane: [The next crisis?](http://johnhcochrane.blogspot.com/2016/12/the-next-crisis.html)
  - Ben Bernanke: [Ben Bernanke's Blog](https://www.brookings.edu/blog/ben-bernanke/2016/10/19/are-americans-better-off-than-they-were-a-decade-or-two-ago/)
 
@@ -78,4 +80,4 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
 ## User Experience
 
- - Joel Marsh: [10 ways to pretend you know UX when you don't](http://thehipperelement.com/post/66097606120/10-ways-to-pretend-you-know-ux-when-you-dont)
+  - Joel Marsh: [10 ways to pretend you know UX when you don't](http://thehipperelement.com/post/66097606120/10-ways-to-pretend-you-know-ux-when-you-dont)
