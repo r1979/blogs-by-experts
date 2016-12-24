@@ -18,6 +18,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Ben Thompson: [Dollar Shave Club and the Disruption of Everything](https://stratechery.com/2016/dollar-shave-club-and-the-disruption-of-everything/)
  - Fred Wilson: [MBA-Mondays: Sales Leads on a Small Budget](http://avc.com/2013/06/mba-mondays-sales-leads-on-a-small-budget/)
  - Brad Feld: [Feld Thoughts: Board Seat For Sale](http://www.feld.com/archives/2016/12/board-seat-sale.html)
+ - Paul Graham: [Do Things that Don't Scale](http://paulgraham.com/ds.html)
 
 ## Chemistry
 - Derek Lowe: [The Open Source Malaria Project, So Far](http://blogs.sciencemag.org/pipeline/archives/2016/09/16/the-open-source-malaria-project-so-far)
@@ -36,10 +37,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Richard Serlin: [The Intuition behind Wallace Neutrality](http://richardhserlin.blogspot.com/2015/07/the-intuition-behind-wallace-neutrality.html)
  - Nick Szabo: [Weigh and deliver: compensation and the evolution of law and money](https://unenumerated.blogspot.com/2016/12/weigh-and-deliver-compensation-and.html)
  - John Cochrane: [The next crisis?](http://johnhcochrane.blogspot.com/2016/12/the-next-crisis.html)
-
-## Functional Programming
-
- - John A. De Goes: [A Beginner-Friendly Tour of Functional Programming in Scala](http://degoes.net/articles/easy-monads)
+ - Ben Bernanke: [Ben Bernanke's Blog](https://www.brookings.edu/blog/ben-bernanke/2016/10/19/are-americans-better-off-than-they-were-a-decade-or-two-ago/)
 
 ## Mathematics
 
@@ -55,17 +53,20 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Scott Aaronson: [Why I am not an integrated information theorist](http://www.scottaaronson.com/blog/?p=1799)
  - Sean Carroll: [Preposterous Universe](https://www.preposterousuniverse.com/blog/)
+ - Peter Woit: [Entanglement, the Multiverse and the Universe](http://www.math.columbia.edu/~woit/wordpress/?p=8918)
 
 ## Popular Science
  - Tim Urban: [Why Procrastinators Procrastinate](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
+ - Ben Krasnow: [How anti-theft tags work - magnetostriction](http://benkrasnow.blogspot.com/2015/11/how-anti-theft-tags-work.html)
+
+## Programming
+
+ - Jeff Knupp: [How Python Linters Will Save Your Large Python Project](https://jeffknupp.com/blog/2016/12/09/how-python-linters-will-save-your-large-python-project/)
+ - John A. De Goes: [A Beginner-Friendly Tour of Functional Programming in Scala](http://degoes.net/articles/easy-monads)
 
 ## Psychiatry
 
  - Scott Alexander: [Reverse voxsplaining: prison and mental illness](http://slatestarcodex.com/2016/03/07/reverse-voxsplaining-prison-and-mental-illness/)
-
-## Python
-
- - Jeff Knupp: [How Python Linters Will Save Your Large Python Project](https://jeffknupp.com/blog/2016/12/09/how-python-linters-will-save-your-large-python-project/)
 
 ## Security
 
