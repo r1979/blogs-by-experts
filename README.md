@@ -55,6 +55,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
 ## Popular Science
  - Tim Urban: [Why Procrastinators Procrastinate](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
+ - Ben Krasnow: [How anti-theft tags work - magnetostriction](http://benkrasnow.blogspot.com/2015/11/how-anti-theft-tags-work.html)
 
 ## Psychiatry
 
