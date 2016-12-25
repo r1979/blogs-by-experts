@@ -81,3 +81,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 ## User Experience
 
   - Joel Marsh: [10 ways to pretend you know UX when you don't](http://thehipperelement.com/post/66097606120/10-ways-to-pretend-you-know-ux-when-you-dont)
+
+## Technical Writing
+ - Tom Johnson: http://idratherbewriting.com/2016/12/20/changing-roles-of-technical-writers/
+
