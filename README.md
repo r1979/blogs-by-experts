@@ -30,6 +30,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Scott Aaronson: [The 8000th Busy Beaver number eludes ZF set theory](http://www.scottaaronson.com/blog/?p=2725)
  - Dan Luu: [We saw some really bad Intel CPU bugs in 2015, and we should expect to see more in the future](http://danluu.com/cpu-bugs/)
  - Jeff Atwood: [International Backup Awareness Day](https://blog.codinghorror.com/international-backup-awareness-day/)
+ - Andrej Karpathy: [The Unreasonable Effectiveness of Recurrent Neural Networks] (https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ## Economics
 
