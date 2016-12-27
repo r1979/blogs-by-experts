@@ -72,6 +72,10 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Scott Alexander: [Reverse voxsplaining: prison and mental illness](http://slatestarcodex.com/2016/03/07/reverse-voxsplaining-prison-and-mental-illness/)
 
+ ## Psychology
+
+ - Vaughn Bell: [The Hidden History of War on Terror Torture](https://mindhacks.com/2016/10/09/the-hidden-history-of-war-on-terror-torture/)
+
 ## Security
 
  - Brian Krebs: [ATM Insert Skimmers: A Closer Look](https://krebsonsecurity.com/2016/11/atm-insert-skimmers-a-closer-look/)
