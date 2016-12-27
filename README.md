@@ -71,6 +71,10 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Scott Alexander: [Reverse voxsplaining: prison and mental illness](http://slatestarcodex.com/2016/03/07/reverse-voxsplaining-prison-and-mental-illness/)
 
+ ## Psychology
+
+ - Vaughn Bell: [The Hidden History of War on Terror Torture](https://mindhacks.com/2016/10/09/the-hidden-history-of-war-on-terror-torture/)
+
 ## Security
 
  - Bruce Schneier: [Why cryptography is harder than it looks](https://www.schneier.com/essays/archives/1997/01/why_cryptography_is.html)
